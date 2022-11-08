@@ -1,2 +1,2 @@
-# Funnnyx-Funnyx.github.io
+# Funnyx.github.io
 blog
